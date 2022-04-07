@@ -1,0 +1,23 @@
+.container-fluid{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#sub{
+    background-color: blue;
+}
+.centered-left{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+#card{
+    border-color: white;
+}
